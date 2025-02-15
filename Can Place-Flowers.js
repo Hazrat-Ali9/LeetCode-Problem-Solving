@@ -21,5 +21,5 @@ const canPlaceFlowers = (flowerbed, n) => {
 
   return count === n;
 };
-
+// Cmt
 // export { canPlaceFlowers };
