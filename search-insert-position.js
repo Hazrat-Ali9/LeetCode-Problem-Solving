@@ -1,7 +1,7 @@
 /**
  * @param {number[]} nums
  * @param {number} target
- * @return {number}
+ * @return {number}💨
  */
 const searchInsert = (nums, target) => {
   let lo = 0;
