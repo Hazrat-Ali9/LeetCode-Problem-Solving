@@ -22,3 +22,5 @@ var longestCommonSubsequence = function(text1, text2) {
 
     return dp[m][n];
 };
+
+//Longest Common Subsequence
